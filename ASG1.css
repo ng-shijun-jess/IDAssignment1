@@ -8,6 +8,8 @@ header{
     position:fixed;
     z-index: 999;
     width: 100%;
+    left:0%;
+    top:0%
 
     
 }
@@ -95,4 +97,15 @@ nav a:hover {
 .nav-toggle:checked ~ nav a {
     opacity: 1;
     transition: opacity 250ms ease-in-out 250ms;
+}
+@media screen and (min-width:800px) {
+
+}
+
+
+
+
+body{
+    display:flex;
+
 }
