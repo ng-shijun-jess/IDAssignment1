@@ -107,5 +107,6 @@ nav a:hover {
 
 body{
     display:flex;
+    flex-wrap: wrap;
 
 }
