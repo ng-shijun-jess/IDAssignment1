@@ -114,6 +114,7 @@ nav a:hover {
 body{
     display: flex;
     flex-wrap: wrap;
+
     
 }
 
@@ -121,6 +122,7 @@ body{
 
 
 .intro_box{
+    
     position: relative;
     background-color: #74bcb9;
     color:#32494e;
@@ -137,6 +139,29 @@ body{
     text-align: center;
     justify-content: center;
     margin:auto;
+    right:50%;
 
 }
+
+
+
+.main_title{
+    position: relative;
+    font-size: 40px;
+    left:10%;
+    top:300px;
+    color: #74bcb9;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.main_content{
+    margin: 10px;
+    padding:20px;
+    position: relative;
+    left:10%;
+    top:300px;
+    color: gainsboro;
+    font-family: 'Montserrat', sans-serif;
+}
+
 
