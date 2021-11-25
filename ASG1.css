@@ -6,7 +6,7 @@ h1{
     font-family: 'Bebas Neue', cursive; 
 }
 
-body{background-color: #568A91;}
+body{background-color: #32494e;}
 
 header{
     background: var(--background);
@@ -124,11 +124,12 @@ body{
     position: relative;
     background-color: #74bcb9;
     color:#32494e;
+    border-color: antiquewhite;
     font-size: 20px;
     font-weight:bold;
     width:50%;
     font-family: 'Montserrat', sans-serif;
-    border-style:groove;
+    border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
     top: 10em;
@@ -137,13 +138,5 @@ body{
     justify-content: center;
     margin:auto;
 
-}
-
-
-.img{
-    background-image: url('Self picture.jpeg');
-    border-radius: 50%;
-    width:300px;
-    height:300px;
 }
 
