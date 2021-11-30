@@ -119,15 +119,15 @@ body{
 
 
 
-
 .intro_box{
-    position: relative;
+    
+    position: absolute;
     background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
     font-size: 20px;
     font-weight:bold;
-    width:50%;
+    width:20%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
@@ -137,6 +137,23 @@ body{
     text-align: center;
     justify-content: center;
     margin:auto;
-
+    left:38%;
 }
 
+.main_title{
+    position: relative;
+    font-size: 40px;
+    top:50px;
+    color: #74bcb9;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+article{
+    position: relative;
+    top:700px;
+    width:50%;
+    color: aliceblue;
+    font-size: 30px;
+    left:10%;
+}

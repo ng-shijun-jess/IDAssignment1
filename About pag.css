@@ -123,13 +123,13 @@ body{
 
 .intro_box{
     
-    position: relative;
+    position: absolute;
     background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
     font-size: 20px;
     font-weight:bold;
-    width:50%;
+    width:40%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
@@ -139,7 +139,7 @@ body{
     text-align: center;
     justify-content: center;
     margin:auto;
-    right:50%;
+    left:28%;
 
 }
 
@@ -149,7 +149,7 @@ body{
     position: relative;
     font-size: 40px;
     left:10%;
-    top:300px;
+    top:600px;
     color: #74bcb9;
     font-family: 'Bebas Neue', cursive;
 }
@@ -159,7 +159,7 @@ body{
     padding:20px;
     position: relative;
     left:10%;
-    top:300px;
+    top:600px;
     color: gainsboro;
     font-family: 'Montserrat', sans-serif;
 }
