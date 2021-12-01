@@ -127,9 +127,9 @@ body{
     background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
-    font-size: 20px;
+    font-size: 35px;
     font-weight:bold;
-    width:40%;
+    width:20%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
@@ -138,8 +138,7 @@ body{
     padding:40px;
     text-align: center;
     justify-content: center;
-    margin:auto;
-    left:28%;
+    left:38%;
 
 }
 
@@ -147,9 +146,9 @@ body{
 
 .main_title{
     position: relative;
-    font-size: 40px;
+    font-size: 70px;
     left:10%;
-    top:600px;
+    top:60rem;
     color: #74bcb9;
     font-family: 'Bebas Neue', cursive;
 }
@@ -159,9 +158,10 @@ body{
     padding:20px;
     position: relative;
     left:10%;
-    top:600px;
+    top:60rem;
     color: gainsboro;
     font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
 }
 
 
