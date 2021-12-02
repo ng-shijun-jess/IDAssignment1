@@ -111,7 +111,7 @@ nav a:hover {
 
 
 
-body{
+main{
     display: flex;
     flex-wrap: wrap;
     
@@ -122,7 +122,7 @@ body{
 
 .intro_box{
     position: relative;
-    background-color: #74bcb9;
+    background-color: #fcc6b1;
     color:#32494e;
     border-color: antiquewhite;
     font-size: 35px;
@@ -132,7 +132,7 @@ body{
     border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
-    top: 10em;
+    top: 18em;
     padding:40px;
     text-align: center;
     justify-content: center;
@@ -140,11 +140,36 @@ body{
 
 }
 
-img{
-    top: 1000px;
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-    width:20%;
+.profile{
+    position: absolute;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding: 20px;
+    top:100px;
+    justify-content: center;
+    margin:auto;
+    height:40%;
+    box-shadow: 0 0 10px  rgba(0,0,0,0.2);
+    background-color: #74bcb9;
+    border-radius:5%;
+    
+}
+
+.profile_image{
+    width:150px;
+    height:150px;
+    object-fit:cover;
     border-radius:50%;
+    margin:0 auto 10px auto;
+    display:block;
+    
+}
+
+
+.my_profile_name{
+    font-family: 'Montserrat', sans-serif;
+    color:aliceblue;
+    font-size: large;
+
+
 }
