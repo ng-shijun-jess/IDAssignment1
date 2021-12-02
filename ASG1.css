@@ -141,23 +141,24 @@ main{
 }
 
 .profile{
-    position: absolute;
+    position: relative;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     padding: 20px;
     top:100px;
     justify-content: center;
     margin:auto;
-    height:40%;
+    height:50%;
     box-shadow: 0 0 10px  rgba(0,0,0,0.2);
     background-color: #74bcb9;
     border-radius:5%;
+
     
 }
 
 .profile_image{
-    width:150px;
-    height:150px;
+    width:250px;
+    height:250px;
     object-fit:cover;
     border-radius:50%;
     margin:0 auto 10px auto;
@@ -169,7 +170,8 @@ main{
 .my_profile_name{
     font-family: 'Montserrat', sans-serif;
     color:aliceblue;
-    font-size: large;
+    font-size: 40px;
+    padding:40px;
 
 
 }
