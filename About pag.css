@@ -120,25 +120,28 @@ body{
 
 
 
-
 .intro_box{
+
+
     
-    position: absolute;
+    position: relative;
     background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
-    font-size: 35px;
+    font-size: 30px;
     font-weight:bold;
     width:20%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
-    top: 10em;
     padding:40px;
     text-align: center;
-    justify-content: center;
-    left:38%;
+    margin-left: 1450px;
+    margin-top: 500px;
+
+
+    
 
 }
 
@@ -165,3 +168,7 @@ body{
 }
 
 
+.img{
+    display:block;
+    color:black;
+}
