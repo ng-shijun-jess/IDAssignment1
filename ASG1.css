@@ -121,39 +121,52 @@ main{
 
 
 .intro_box{
+
+
+    
     position: relative;
-    background-color: #fcc6b1;
+    background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
-    font-size: 35px;
+    font-size: 30px;
     font-weight:bold;
-    width:50%;
+    width:40%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
-    top: 18em;
+    top: 40em;
     padding:40px;
     text-align: center;
-    justify-content: center;
-    margin:auto;
+    margin-left: 1090px;
+    margin-top: -50px;
+
+
+    
 
 }
 
 .profile{
-    position: relative;
+    position: absolute;
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     padding: 20px;
-    top:100px;
-    justify-content: center;
-    margin:auto;
     height:50%;
     box-shadow: 0 0 10px  rgba(0,0,0,0.2);
     background-color: #74bcb9;
     border-radius:5%;
+    width: 500px;
+    height: 700px;
+    top: 50%;
+    left: 50%;
+    margin-left: -270px;
+    margin-top: -500px;
 
     
+}
+
+.profile:hover{
+    background-color: #c083D0
 }
 
 .profile_image{
