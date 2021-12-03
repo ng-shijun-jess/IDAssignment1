@@ -518,3 +518,26 @@ article a:active {
     color: #ff91af;
 }
 
+legend{
+  color:#ff91af;
+
+}
+
+fieldset{
+  color:#ff91af;
+  position: relative;
+  top:300px;
+  margin-bottom: 300px;
+}
+inputName{
+  padding:7px;
+  height: 40px;
+  
+}
+
+inputFeedback{
+  padding:7px;
+  height: 1000px;
+
+
+}
