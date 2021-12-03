@@ -24,3 +24,27 @@ Features Left to Implement:
 -Put in a section in the about page where they can access different project images by clicking a button that goes right or left.
 
 
+
+
+<u>Credits</u>
+
+<h3>Content</h3>
+The text for navigation is from: 
+
+
+
+<h3>Media</h3>
+The photos used in this site were obtained from: https://youtu.be/8QKOaTYvYUA
+
+Profile picture - My Phone
+Kranji Primary school Picture - https://www.psleresults.com/wp-content/uploads/2017/07/Kranji-Primary-School.jpg
+Chua Chu Kang Primary School - http://www.psleresults.com/wp-content/uploads/2017/07/Chua-Chu-Kang-Primary-School.jpg
+Chung Cheng High School (Main) - https://i.pinimg.com/originals/31/19/9d/31199d1d5a9b61a141a988a4efb5f5e7.jpg
+Ngee Ann Polytechnic  - http://sg2-cdn.pgimgs.com/listing/19598011/UPHO.64994396.V550.jpg
+YiFang Fruit Tea - https://i771.photobucket.com/albums/xx357/marumura/Nana/YIFANG%20TAIWAN%20FRUIT%20TEA/7.jpg
+Steampunk session DOTSIG - Computer Screenshot
+
+
+
+
+

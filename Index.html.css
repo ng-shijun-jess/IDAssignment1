@@ -530,3 +530,175 @@ nav a:hover {
 
 }
 
+
+.about_intro_box{
+  position: relative;
+  background-color: #74bcb9;
+  color:#32494e;
+  border-color: antiquewhite;
+  font-size: 30px;
+  font-weight:bold;
+  width:50%;
+  font-family: 'Montserrat', sans-serif;
+  border-style:dashed;
+  border-width: 10px;
+  border-radius: 10px;
+  top: 5em;
+  padding:40px;
+  text-align: center;
+  margin:auto;
+  
+}
+
+.about_main_title{
+  position: relative;
+  font-size: 70px;
+  left:10%;
+  top:20rem;
+  color: #74bcb9;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.about_main_content{
+  margin: 10px;
+  padding:20px;
+  position: relative;
+  left:10%;
+  top:18rem;
+  color: gainsboro;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  width: 70%;
+}
+
+
+.about_img{
+  display:block;
+  color:black;
+  height: 300px;
+  width: 550px;
+}
+
+
+
+.blog_intro_box{
+    
+  position: relative;
+  background-color: #74bcb9;
+  color:#32494e;
+  border-color: antiquewhite;
+  font-size: 30px;
+  font-weight:bold;
+  width:40%;
+  font-family: 'Montserrat', sans-serif;
+  border-style:dashed;
+  border-width: 10px;
+  border-radius: 10px;
+  top: 5em;
+  padding:40px;
+  text-align: center;
+  justify-content: center;
+  margin:auto;
+}
+
+.blog_main_title{
+  position: relative;
+  font-size: 40px;
+  top:30px;
+  color: #74bcb9;
+  font-family: 'Bebas Neue', cursive;
+}
+
+
+.blog_article{
+  position: relative;
+  margin:auto;
+  border-style:groove;
+  top:200px;
+  width:70%;
+  color: aliceblue;
+  font-size: 30px;
+  padding:50px;
+  margin-bottom: 500px;
+}
+
+
+
+
+
+.contact_intro_box{
+    
+  position: relative;
+  background-color: #74bcb9;
+  color:#32494e;
+  border-color: antiquewhite;
+  font-size: 35px;
+  font-weight:bold;
+  width:50%;
+  font-family: 'Montserrat', sans-serif;
+  border-style:dashed;
+  border-width: 10px;
+  border-radius: 10px;
+  top: 4em;
+  padding:40px;
+  text-align: center;
+  margin:auto;
+  margin-bottom: 40px;
+
+}
+
+
+.contact_article{
+  position: relative;
+  margin:auto;
+  border-style:groove;
+  top:200px;
+  width:70%;
+  color: aliceblue;
+  font-size: 30px;
+  padding:50px;
+  text-align: center;
+  padding-bottom: 30px;
+
+}
+
+article a{
+  color:aliceblue;
+}
+
+article a:visited {
+  color: #095484;
+}
+/* mouse over link */
+article a:hover {
+  color: #8ebf42;
+}
+/* selected link */
+article a:active {
+  color: #ff91af;
+}
+
+.contact_legend{
+color:#ff91af;
+
+}
+
+fieldset{
+color:#ff91af;
+position: relative;
+top:300px;
+margin-bottom: 300px;
+}
+
+inputName{
+padding:7px;
+height: 40px;
+
+}
+
+inputFeedback{
+padding:7px;
+height: 1000px;
+
+
+}
