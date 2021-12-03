@@ -4,6 +4,8 @@ The main purpose of the website is for viewers to know me overall.
 
 As a student,I want to display as much relevant skills into this Portfolio website.
 
+As an employer,I want to know the details of the person and how well they can code.
+
 Right below are my wire frames to show th planning of the website look:
 <img src= 'iphone 12,12 Pro - 1.png'>
 <img src = 'Web 1920 - 1.png'>
