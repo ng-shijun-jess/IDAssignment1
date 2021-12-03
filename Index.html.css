@@ -554,7 +554,6 @@ nav a:hover {
   position: relative;
   font-size: 70px;
   left:10%;
-  top:20rem;
   color: #74bcb9;
   font-family: 'Bebas Neue', cursive;
 }
@@ -564,7 +563,6 @@ nav a:hover {
   padding:20px;
   position: relative;
   left:10%;
-  top:18rem;
   color: gainsboro;
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
@@ -659,6 +657,8 @@ nav a:hover {
   padding:50px;
   text-align: center;
   padding-bottom: 30px;
+  font-family: 'Bebas Neue', cursive;
+
 
 }
 
