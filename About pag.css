@@ -357,7 +357,9 @@ h1{
     font-family: 'Bebas Neue', cursive; 
 }
 
-body{background-color: #32494e;}
+body{
+    background-color: #32494e;
+}
 
 header{
     background: var(--background);
@@ -455,37 +457,25 @@ nav a:hover {
     opacity: 1;
     transition: opacity 250ms ease-in-out 250ms;
 }
-@media screen and (min-width:800px) {
-
-}
-
-
-
-
-
-
 
 .intro_box{
-
     position: relative;
     background-color: #74bcb9;
     color:#32494e;
     border-color: antiquewhite;
     font-size: 30px;
     font-weight:bold;
-    width:40%;
+    width:50%;
     font-family: 'Montserrat', sans-serif;
     border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
+    top: 5em;
     padding:40px;
     text-align: center;
     margin:auto;
-    top:150px;
-
+    
 }
-
-
 
 .main_title{
     position: relative;
@@ -501,14 +491,17 @@ nav a:hover {
     padding:20px;
     position: relative;
     left:10%;
-    top:20rem;
+    top:18rem;
     color: gainsboro;
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
+    width: 70%;
 }
 
 
 .img{
     display:block;
     color:black;
+    height: 300px;
+    width: 550px;
 }

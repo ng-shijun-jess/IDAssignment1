@@ -479,11 +479,11 @@ nav a:hover {
     border-style:dashed;
     border-width: 10px;
     border-radius: 10px;
-    top: 10em;
+    top: 4em;
     padding:40px;
     text-align: center;
-    justify-content: center;
     margin:auto;
+    margin-bottom: 40px;
 
 }
 
@@ -492,12 +492,12 @@ article{
     position: relative;
     margin:auto;
     border-style:groove;
-
-    top:400px;
+    top:200px;
     width:70%;
     color: aliceblue;
     font-size: 30px;
     padding:50px;
+    text-align: center;
     padding-bottom: 30px;
 
 }
